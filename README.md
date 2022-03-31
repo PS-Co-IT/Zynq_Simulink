@@ -1,4 +1,4 @@
-# Zynq_Simulink
+# Prototyping Power Electronics Systems with Zynq-based boards using Simulink 
 This repository includes examples and source material to help you get started with programming Zynq-based devices with Matlab/Simulink and HDL Coder. The provided demos are primarily directed to the Zedboard development kit.
 
 This repository shares material presented and discussed in the following paper, published in the journal Electronics - https://doi.org/10.3390/electronics1010000:
